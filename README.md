@@ -1,2 +1,3 @@
 # DevOPS-2023
-Jenkins
+
+Projet Jenkins pour le cours de DEV-OPS de 2023 de MAD Ayoub et Mohammed Bouhachlaf.
